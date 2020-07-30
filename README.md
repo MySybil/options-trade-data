@@ -8,6 +8,10 @@ The data is provided in .csv form.
 
 ### Requesting Data:
 
+* [Click here and fill out the form.](https://www.mysybil.com/trade-data) 
+
+-OR-
+
 * Open an issue for this repository with the desired symbol, option expiration dates (or leave it blank and get the next three expiration dates), start date for the data, and trade interval.
 
 -OR-

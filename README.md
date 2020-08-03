@@ -12,11 +12,11 @@ The data is provided in .csv form.
 
 -OR-
 
-* Open an issue for this repository with the desired symbol, option expiration dates (or leave it blank and get the next three expiration dates), start date for the data, and trade interval.
+* Open an issue for this repository with the desired symbol, option expiration dates (or leave it blank and get the next expiration date), start date for the data, and trade interval.
 
 -OR-
 
-* Send an email to data-requests@mysybil.com with the desired symbol, option expiration dates (or leave it blank and get the next three expiration dates), start date for the data, and trade interval. 
+* Send an email to data-requests@mysybil.com with the desired symbol, option expiration dates (or leave it blank and get the next expiration), start date for the data, and trade interval. 
 
 	* Please also indicate whether you would like an email response when your data has been posted. 
 

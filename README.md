@@ -8,7 +8,7 @@ The data is provided in .csv form.
 
 ### Requesting Data:
 
-* [Click here and fill out the form.](https://www.mysybil.com/trade-data) 
+* [Click here and fill out the form anonymously.](https://www.mysybil.com/trade-data) 
 
 -OR-
 
